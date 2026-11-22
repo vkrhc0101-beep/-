@@ -1,0 +1,8 @@
+{
+  "name": "Remix 호텔리어 AI 인벤토리 - 호텔 비품 및 어메니티 재고 관리 \u0026 발주 의사결정 지원 시스템",
+  "description": "호텔 비품 및 어메니티 사용량·폐기 기록 분석, 소진 속도 및 안전 재고 예측, 최적 발주량 및 발주 시점 추천 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
